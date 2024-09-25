@@ -1,0 +1,28 @@
+.btn{
+    padding: 10px 8px;
+    width: 150px;
+    color: #fff;
+    background: #209915;
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: background 1s;
+
+
+}
+.btn:hover{
+    background: #19ee06;
+    transition: background 1s;
+}
+
+img{border: 2px solid #000;
+border-radius: 5px;
+width: 250px;
+height: 125px;}
+
+
+
+
+

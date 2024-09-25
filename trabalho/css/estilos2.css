@@ -1,0 +1,24 @@
+button{padding: 10px 8px;
+    width: 150px;
+    color: #fff;
+    background: #ff2821;
+    border: 1px solid #555;
+    border-radius: 5px;
+    text-align: center;
+    user-select: none;
+    cursor: pointer;
+    transition: background 1s;}
+    button:hover{
+        background: #a50606;
+        transition: background 1s;
+    }
+    
+    
+    
+    h1{font-size: 250%;
+    font-style:italic ;
+    color: #a50606;}
+    img{width: 250px;
+    height: 175px;}
+    
+    body{background-color: rgb(255, 255, 255);}
